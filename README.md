@@ -1,6 +1,4 @@
-<center>
-  <img src="https://excellentleatherjackets.com/cdn/shop/files/elj-logo.jpg?v=1730359581&width=100" alt="Logo" />
-</center>
+![Logo](https://excellentleatherjackets.com/cdn/shop/files/elj-logo.jpg?v=1730359581&width=100)
 
 ---
 
@@ -10,26 +8,9 @@
 
 ## Featured Products
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://excellentleatherjackets.com/cdn/shop/files/mens-white-woolen-jacket.jpg" alt="Men's White Woolen Jacket" width="200" />
-      <p><a href="https://excellentleatherjackets.com/collections/mens-jackets">Men's White Woolen Jacket</a><br>£180.00</p>
-    </td>
-    <td align="center">
-      <img src="https://excellentleatherjackets.com/cdn/shop/files/mens-sorrel-brown-woolen-jacket.jpg" alt="Men's Sorrel Brown Woolen Jacket" width="200" />
-      <p><a href="https://excellentleatherjackets.com/collections/mens-jackets">Men's Sorrel Brown Woolen Jacket</a><br>£180.00</p>
-    </td>
-    <td align="center">
-      <img src="https://excellentleatherjackets.com/cdn/shop/files/high-quality-cotton-field-jacket.jpg" alt="High-Quality Cotton Field Jacket" width="200" />
-      <p><a href="https://excellentleatherjackets.com/collections/mens-jackets">High-Quality Cotton Field Jacket</a><br>£266.00</p>
-    </td>
-    <td align="center">
-      <img src="https://excellentleatherjackets.com/cdn/shop/files/olive-grey-lambskin-leather-jacket.jpg" alt="Olive Grey Lambskin Leather Jacket" width="200" />
-      <p><a href="https://excellentleatherjackets.com/collections/mens-jackets">Olive Grey Lambskin Leather Jacket</a><br>£164.00</p>
-    </td>
-  </tr>
-</table>
+| ![White Woolen Jacket](https://excellentleatherjackets.com/cdn/shop/files/mens-white-woolen-jacket.jpg) | ![Sorrel Brown Woolen Jacket](https://excellentleatherjackets.com/cdn/shop/files/mens-sorrel-brown-woolen-jacket.jpg) | ![High-Quality Cotton Field Jacket](https://excellentleatherjackets.com/cdn/shop/files/high-quality-cotton-field-jacket.jpg) | ![Olive Grey Lambskin Leather Jacket](https://excellentleatherjackets.com/cdn/shop/files/olive-grey-lambskin-leather-jacket.jpg) |
+|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| [Men's White Woolen Jacket](https://excellentleatherjackets.com/collections/mens-jackets) - £180.00    | [Men's Sorrel Brown Woolen Jacket](https://excellentleatherjackets.com/collections/mens-jackets) - £180.00 | [High-Quality Cotton Field Jacket](https://excellentleatherjackets.com/collections/mens-jackets) - £266.00            | [Olive Grey Lambskin Leather Jacket](https://excellentleatherjackets.com/collections/mens-jackets) - £164.00             |
 
 ---
 
