@@ -1,4 +1,4 @@
-# Featured Collection
+# Featured Collection Website
 
 ```html
 <!DOCTYPE html>
